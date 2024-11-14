@@ -2,9 +2,9 @@
 
 - Sou estudante da Engenharia da computação da UNAERP - Ribeirao Preto - SP
 
-- HTML, CSS, JavaScript, React, Tailwind, NextJs, NodeJs, SQL, Database, C, C#, 
+- Full-stack e jogos. 
 
-- Quero me tornar um exelente desenvolvedor
+
 
 
 <!---
