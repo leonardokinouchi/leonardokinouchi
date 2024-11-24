@@ -2,7 +2,7 @@
 
 - Sou estudante da Engenharia da computação da UNAERP - Ribeirao Preto - SP
 
-- Full-stack e jogos. 
+- Full-stack
 
 
 
